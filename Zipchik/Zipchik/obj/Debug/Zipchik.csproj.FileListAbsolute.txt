@@ -1,0 +1,15 @@
+C:\Users\7102a\source\repos\Zipchik\Zipchik\bin\Debug\Zipchik.exe.config
+C:\Users\7102a\source\repos\Zipchik\Zipchik\bin\Debug\Zipchik.exe
+C:\Users\7102a\source\repos\Zipchik\Zipchik\bin\Debug\Zipchik.pdb
+C:\Users\7102a\source\repos\Zipchik\Zipchik\obj\Debug\Zipchik.csproj.AssemblyReference.cache
+C:\Users\7102a\source\repos\Zipchik\Zipchik\obj\Debug\Zipchik.Form1.resources
+C:\Users\7102a\source\repos\Zipchik\Zipchik\obj\Debug\Zipchik.Properties.Resources.resources
+C:\Users\7102a\source\repos\Zipchik\Zipchik\obj\Debug\Zipchik.csproj.GenerateResource.cache
+C:\Users\7102a\source\repos\Zipchik\Zipchik\obj\Debug\Zipchik.csproj.CoreCompileInputs.cache
+C:\Users\7102a\source\repos\Zipchik\Zipchik\obj\Debug\Zipchik.exe
+C:\Users\7102a\source\repos\Zipchik\Zipchik\obj\Debug\Zipchik.pdb
+C:\Users\7102a\source\repos\Zipchik\Zipchik\obj\Debug\Zipchik.License.resources
+C:\Users\7102a\source\repos\Zipchik\Zipchik\obj\Debug\Zipchik.SelectingFolder.resources
+C:\Users\7102a\source\repos\Zipchik\Zipchik\obj\Debug\Zipchik.Installation.resources
+C:\Users\7102a\source\repos\Zipchik\Zipchik\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\7102a\source\repos\Zipchik\Zipchik\obj\Debug\Zipchik.csproj.ResolveComReference.cache
